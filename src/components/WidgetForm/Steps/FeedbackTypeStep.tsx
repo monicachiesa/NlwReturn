@@ -6,7 +6,6 @@ interface FeedbackTypeStepProps {
 }
 
 export function FeedbackTypeStep(props: FeedbackTypeStepProps) {
-
     return (
        <>
         <header >
